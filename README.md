@@ -1,6 +1,6 @@
 First-year graduate student pursuing MS CS @ ASU.
 
 Looking for internship roles during Summer 2020 in:
-1. Data Science
+1. Data Engineering
 2. Software Development
-3. Artificial Intelligence
+3. Natural Language Processing
